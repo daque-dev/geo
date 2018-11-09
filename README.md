@@ -13,6 +13,8 @@ and modify the heights of each area later.
 - Generate a wave `w`, made from the overlap of multiple waves.
 - Sweep around the point using the values from `w` to set a radius.
 
+//**TODO:** Implement something inspired by this idea in any framework//
+
 ### Growing trees with particles
 
 - Create a particle at a random point in the map.
@@ -20,6 +22,8 @@ and modify the heights of each area later.
 - When a particle is *old enough*, it may reproduce into *n* particles.
 - When a particle is *old enough*, it dies, registering its last position.
 - Draw a concave hull of the points left by the particles.
+
+//**TODO:** Implement something inspired by this idea in any framework//
 
 ### Polygon multi distortion
 
@@ -29,6 +33,8 @@ and modify the heights of each area later.
 the distortion.
 - Distorted edges cannot cross to the other side of the original edge.
 - Repeat.
+
+//**TODO:** Implement something inspired by this idea in any framework//
 
 ## Heightmaps—first methods
 
